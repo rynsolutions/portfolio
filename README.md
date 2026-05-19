@@ -2,7 +2,7 @@
 Health data analyst Data Analyst and Scientist with hands-on experience in clinical diagnostics, health systems research, and applied machine learning, specializing in turning complex biomedical data into validated, decision-ready outputs. 
 Proven ability to communicate technical insights to clinical, investor, and policy audiences.
 
-#### Technical Skills: Python, R, SQL, EXCEL, Power BI
+#### Technical Skills: Python, R, SQL, EXCEL, Power BI, Machine Learning
 
 ## Work Experience
 **Data Analyst - Kumasi Hive | Non Profit Organisation**
