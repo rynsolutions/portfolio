@@ -1,5 +1,8 @@
 title: Alhassan Fadillilah
-logo: assets/mpp.jpg
-#description: text below image
-#show_downloads: false
+logo: assets/img/profile.png
+description: Data Scientist & Health Analytics Specialist
 theme: jekyll-theme-minimal
+
+# Social links (displayed in the sidebar)
+plugins:
+  - jekyll-seo-tag
